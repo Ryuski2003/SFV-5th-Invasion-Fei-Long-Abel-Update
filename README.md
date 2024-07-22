@@ -1,5 +1,7 @@
 # SFV-5th-Invasion-Fei-Long-Abel-Update
- This mod brings 3 new characters: Dudley(Laura), Fei Long(Karin) and Abel(Dhalsim).
+Link for the trailer: https://www.youtube.com/watch?v=ESZTV2sk5vo
+
+This mod brings 3 new characters: Dudley(Laura), Fei Long(Karin) and Abel(Dhalsim).
 
 Dudley : He is the first modded character. He replaces Laura. He has several moves from both SF4 and SFXT.
 Fei Long: He is the second modded character. It is planned to release in a canceled project named SFV: Unofficial Remix by Killbox. Unfortunately, his GPU died :d
