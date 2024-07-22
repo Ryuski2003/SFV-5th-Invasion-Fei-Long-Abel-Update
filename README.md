@@ -21,7 +21,7 @@ Patreon: https://www.patreon.com/Ryuski736
 
 ##How to Install
 1) Download Fluffy Mod Manager: https://fluffyquack.com/tools/modmanager.zip
-2) Drag and drop the mod into *.\Games\SF5\Mods
+2) Extract the zip into *.\Games\SF5\Mods
 3) Choose Game -> Street Fighter V
 4) Refresh mod list.
 5) Install the mod.
